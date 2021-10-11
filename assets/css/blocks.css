@@ -2917,9 +2917,9 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 {
     position: absolute;
     z-index: 50;
-    top: 30;
+    top: 0;
     right: 0;
-    bottom: 30;
+    bottom: 0;
 
     overflow: hidden;
 
