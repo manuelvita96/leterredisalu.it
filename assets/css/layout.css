@@ -47,7 +47,7 @@ body
     font-style: normal;
 
     color: #fff;
-    background: #111;
+/*    background: #111;*/
 }
 
 h1,
@@ -1867,7 +1867,7 @@ a.button-default span
     -webkit-transition: all .5s cubic-bezier(.19, 1, .22, 1);
             transition: all .5s cubic-bezier(.19, 1, .22, 1);
 
-    background: #111;
+    background: #2f2f2f;
 }
 
 .popup-container:hover:after
